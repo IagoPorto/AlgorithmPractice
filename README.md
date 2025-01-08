@@ -19,7 +19,7 @@ This repository contains a curated collection of various coding problems, primar
   - Java
   - C
   - JavaScript
-  - SQL
+  - SQL using PostgreSQL
 - **Topics Covered**:
   - Arrays and Strings
   - Linked Lists
