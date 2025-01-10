@@ -27,6 +27,7 @@ This repository contains a curated collection of various coding problems, primar
 - **Languages**:
   - Java
   - C
+  - Python
   - JavaScript
   - SQL using PostgreSQL
 - **Topics Covered**:
